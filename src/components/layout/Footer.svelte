@@ -4,7 +4,7 @@
 </script>
 
 <div class="flex flex-col items-center justify-center gap-5 py-16">
-	<a href="https://www.instagram.com/lifecreatesart" class="flex items-center gap-2">
+	<a href="https://www.instagram.com/example" class="flex items-center gap-2">
 		<Instagram style="font-size: 28px" />
 		Follow me on Instagram!
 	</a>
